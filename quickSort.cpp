@@ -27,7 +27,7 @@ int partition(vector<int>&arr,int low,int high)
         }
     }
     swap(arr[low],arr[j]);
-    cout<<arr[low]<<" and "<<arr[j]<<" swapped "<<endl;
+    cout<<arr[low]<<" and "<<arr[j]<<" swappedb "<<endl;
             return j;
 
 }
